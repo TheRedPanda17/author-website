@@ -1,0 +1,33 @@
+{
+  "name": "author-website",
+  "version": "1.0.0",
+  "description": "A simple author website built with Astro and Svelte",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRedPanda17/author-website.git"
+  },
+  "keywords": [
+    "astro",
+    "svelte",
+    "author",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRedPanda17/author-website/issues"
+  },
+  "homepage": "https://github.com/TheRedPanda17/author-website#readme",
+  "dependencies": {
+    "@astrojs/svelte": "^7.1.0",
+    "astro": "^5.12.8",
+    "svelte": "^5.37.2"
+  }
+}
